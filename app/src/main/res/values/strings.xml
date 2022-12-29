@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mon3hom6</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="devils_work">Devil Work</string>
+    <string name="freddie_dredd">Freddie Dredd</string>
+    <string name="_1">1</string>
+    <string name="music_artist">Music Artist</string>
+</resources>
